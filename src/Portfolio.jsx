@@ -668,7 +668,6 @@ export default function Portfolio() {
                 <ul className="space-y-3.5 text-xs text-zinc-400">
                   <li className="flex items-start gap-2.5 group/li"><span className="w-1.5 h-1.5 rounded-full bg-purple-400 mt-1.5 group-hover/li:scale-150 group-hover/li:bg-fuchsia-400 transition-all duration-300" /> <span>B.Comp.Sc (Hons) Multimedia Computing</span></li>
                   <li className="flex items-start gap-2.5 group/li"><span className="w-1.5 h-1.5 rounded-full bg-purple-400 mt-1.5 group-hover/li:scale-150 group-hover/li:bg-fuchsia-400 transition-all duration-300" /> <span>Full-stack Web Development</span></li>
-                  <li className="flex items-start gap-2.5 group/li"><span className="w-1.5 h-1.5 rounded-full bg-purple-400 mt-1.5 group-hover/li:scale-150 group-hover/li:bg-fuchsia-400 transition-all duration-300" /> <span>Database Management & Security</span></li>
                   <li className="flex items-start gap-2.5 group/li"><span className="w-1.5 h-1.5 rounded-full bg-purple-400 mt-1.5 group-hover/li:scale-150 group-hover/li:bg-fuchsia-400 transition-all duration-300" /> <span>Melaka, Malaysia</span></li>
                 </ul>
               </div>
@@ -972,9 +971,9 @@ export default function Portfolio() {
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-72 h-72 bg-purple-500/5 rounded-full blur-[80px] pointer-events-none" />
         
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 space-y-5 relative z-10">
-          <h2 className="text-2xl sm:text-3xl font-bold text-white tracking-tight">Let's Build Something Together</h2>
+          <h2 className="text-2xl sm:text-3xl font-bold text-white tracking-tight">Let's Turn ideas into Reality</h2>
           <p className="text-sm text-zinc-400 max-w-md mx-auto leading-relaxed">
-            I'm currently seeking roles aligned with software engineering and web application architectures. Let's start talking!
+            I'm actively seeking opportunities in software engineering, full-stack development, and web technologies. Let's discuss how I can contribute to your team.
           </p>
           <div className="pt-4">
             <a
