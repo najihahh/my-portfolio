@@ -971,9 +971,9 @@ export default function Portfolio() {
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-72 h-72 bg-purple-500/5 rounded-full blur-[80px] pointer-events-none" />
         
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 space-y-5 relative z-10">
-          <h2 className="text-2xl sm:text-3xl font-bold text-white tracking-tight">Let's Turn ideas into Reality</h2>
+          <h2 className="text-2xl sm:text-3xl font-bold text-white tracking-tight">Let's Turn Ideas into Reality</h2>
           <p className="text-sm text-zinc-400 max-w-md mx-auto leading-relaxed">
-            I'm actively seeking opportunities in software engineering, full-stack development, and web technologies. Let's discuss how I can contribute to your team.
+            I'm actively seeking opportunities in Full-Stack Development, Web Development, and System Testing, where I can leverage my experience in developing, testing, and maintaining web applications while continuously expanding my technical expertise.
           </p>
           <div className="pt-4">
             <a
