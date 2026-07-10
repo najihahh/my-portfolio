@@ -709,37 +709,37 @@ export default function Portfolio() {
               <div className="p-5 bg-zinc-950/40 backdrop-blur-sm border border-purple-950/60 rounded-2xl space-y-5 hover:border-purple-500/30 hover:bg-purple-950/5 transition-all duration-500 shadow-xl">
                 <div className="flex items-center gap-2.5 text-purple-300 font-bold text-xs uppercase font-mono tracking-wider border-b border-purple-900/20 pb-2"><Code size={14}/> Languages</div>
                 <div className="space-y-4">
-                  <SkillBar label="JavaScript / ES6+" level={60} detail="Primary language across all full-stack projects." />
-                  <SkillBar label="PHP" level={70} detail="Backend logic for the records management system." />
-                  <SkillBar label="SQL" level={70} detail="Schema design for PostgreSQL & MySQL projects." />
-                  <SkillBar label="Python / C++" level={65} detail="Coursework, scripting, and algorithms." />
+                  <SkillBar label="JavaScript" level={50} detail="Primary language across all full-stack projects." />
+                  <SkillBar label="PHP" level={60} detail="Backend logic for the records management system." />
+                  <SkillBar label="SQL" level={60} detail="Schema design for PostgreSQL & MySQL projects." />
+                  <SkillBar label="Python / C++" level={60} detail="Coursework, scripting, and algorithms." />
                 </div>
               </div>
               <div className="p-5 bg-zinc-950/40 backdrop-blur-sm border border-purple-950/60 rounded-2xl space-y-5 hover:border-purple-500/30 hover:bg-purple-950/5 transition-all duration-500 shadow-xl">
                 <div className="flex items-center gap-2.5 text-purple-300 font-bold text-xs uppercase font-mono tracking-wider border-b border-purple-900/20 pb-2"><Layers size={14}/> Frameworks</div>
                 <div className="space-y-4">
-                  <SkillBar label="React.js" level={75} detail="Built NetDiagram's canvas UI and this portfolio." />
-                  <SkillBar label="Node.js / Express" level={65} detail="API layer for the topology editor backend." />
-                  <SkillBar label="Tailwind CSS" level={80} detail="Default styling approach for new UI work." />
-                  <SkillBar label="Bootstrap / Vite" level={70} detail="Used in earlier and rapid-prototype projects." />
+                  <SkillBar label="React.js" level={65} detail="Built NetDiagram's canvas UI and this portfolio." />
+                  <SkillBar label="Node.js / Express" level={60} detail="API layer for the topology editor backend." />
+                  <SkillBar label="Tailwind CSS" level={65} detail="Default styling approach for new UI work." />
+                  <SkillBar label="Bootstrap / Vite" level={60} detail="Used in earlier and rapid-prototype projects." />
                 </div>
               </div>
               <div className="p-5 bg-zinc-950/40 backdrop-blur-sm border border-purple-950/60 rounded-2xl space-y-5 hover:border-purple-500/30 hover:bg-purple-950/5 transition-all duration-500 shadow-xl">
                 <div className="flex items-center gap-2.5 text-purple-300 font-bold text-xs uppercase font-mono tracking-wider border-b border-purple-900/20 pb-2"><Database size={14}/> Infrastructure</div>
                 <div className="space-y-4">
-                  <SkillBar label="PostgreSQL / Supabase" level={70} detail="Backend for the network topology system." />
-                  <SkillBar label="MySQL" level={75} detail="Records management system database." />
-                  <SkillBar label="Git & GitHub" level={80} detail="Version control across all projects." />
-                  <SkillBar label="Hostinger / Cloud Deployment" level={70} detail="Deployment setups for web projects." />
+                  <SkillBar label="PostgreSQL / Supabase" level={65} detail="Backend for the network topology system." />
+                  <SkillBar label="MySQL" level={70} detail="Records management system database." />
+                  <SkillBar label="Git & GitHub" level={75} detail="Version control across all projects." />
+                  <SkillBar label="Hostinger / Cloud Deployment" level={60} detail="Deployment setups for web projects." />
                 </div>
               </div>
               <div className="p-5 bg-zinc-950/40 backdrop-blur-sm border border-purple-950/60 rounded-2xl space-y-5 hover:border-purple-500/30 hover:bg-purple-950/5 transition-all duration-500 shadow-xl">
                 <div className="flex items-center gap-2.5 text-purple-300 font-bold text-xs uppercase font-mono tracking-wider border-b border-purple-900/20 pb-2"><Monitor size={14}/> Multimedia & Net</div>
                 <div className="space-y-4">
-                  <SkillBar label="Unity / C#" level={70} detail="Built the 3D Atlas anatomy education app." />
+                  <SkillBar label="Unity / C#" level={65} detail="Built the 3D Atlas anatomy education app." />
                   <SkillBar label="Blender" level={50} detail="Modeled skeletal mesh assets for 3D Atlas." />
-                  <SkillBar label="Network Topology" level={60} detail="Core focus of the ICT internship & NetDiagram." />
-                  <SkillBar label="Systems Repair" level={70} detail="Hands-on support during both internships." />
+                  <SkillBar label="Network Topology" level={50} detail="Core focus of the ICT internship & NetDiagram." />
+                  <SkillBar label="PC Maintenance" level={60} detail="Hands-on support during both internships." />
                 </div>
               </div>
             </div>
